@@ -17,7 +17,7 @@ export default function TextForm(props) {
 
   const clearText = () => {
     console.log("deleted");
-    const deletion = " ";
+    const deletion = "";
     setText(deletion);
     props.showAlert("Text Cleared", " Success");
   };
@@ -42,7 +42,7 @@ export default function TextForm(props) {
             className="form-control"
             value={text}
             onChange={clicktOnchange}
-           style={{backgroundColor:props.mode==="dark"?"grey":"white",color:props.mode==="dark"?"white":"black" }}
+           style={{backgroundColor:props.mode==="dark"?"rgb(9 89 142)":"white",color:props.mode==="dark"?"white":"black" }}
             
             id="boxId"
             rows="8"
@@ -50,20 +50,22 @@ export default function TextForm(props) {
         </div>
         <button
           type="button"
-          className="btn btn-primary mx-3"
+          className="btn btn-primary mx-3 my-2"
           onClick={convertUpListener}
+          disabled={text.length===0}
         >
           Convert into UpperCase
         </button>
         <button
           type="button"
-          className="btn btn-primary mx-3"
+          className="btn btn-primary mx-3 my-2"
+          disabled={text.length===0}
           onClick={toLowerCase}
           
         >
           Convert into LowerCase
         </button>
-        <button type="button" className="btn btn-primary " onClick={clearText}>
+        <button disabled={text.length===0} type="button" className="btn btn-primary my-2 " onClick={clearText}>
           Clear
         </button>
       </div>
@@ -71,11 +73,11 @@ export default function TextForm(props) {
       <div className="container my-3 " style={{color:props.mode==="dark"?"white":"black"}} >
         <h2>Your Text Summary</h2>
         <p>
-          {text.split(" ").length} words and {text.length} characters.
+          {text.split(/\s+/).filter((element)=>{return element.length!==0}).length} words and {text.length} characters.
         </p>
-        <p>{0.008 * text.split(" ").length} words reads per minute.</p>
+        <p>{text.split(/\s+/).filter((element)=>{return element.length!==0}).length} words reads per minute.</p>
 
-        <h2>Text Summary</h2>
+        <h2>Preview</h2>
         <p>{text.length > 0 ? text : "Enter your text"}</p>
 
         
