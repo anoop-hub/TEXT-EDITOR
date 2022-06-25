@@ -4,7 +4,7 @@ Text-Editor is a React based app in which the user enter his text and converts i
 
 
 
-Here is the sample video of Text-Editor 
+Here is the sample #video of Text-Editor 
 https://user-images.githubusercontent.com/90555457/175787132-4aafa064-3c92-4f9d-bd69-a108f11bca0e.mp4
 
 
@@ -15,15 +15,15 @@ https://user-images.githubusercontent.com/90555457/175787132-4aafa064-3c92-4f9d-
 
 Here is the screenshot of the react app text editor
 
+![Screenshot (680)](https://user-images.githubusercontent.com/90555457/175787256-73c949ca-77f5-480b-9a26-23e26a8d154a.png)
 
-![Screenshot (680)](https://user-images.githubusercontent.com/90555457/175780077-388a7395-1a10-4409-8b66-2bd1b5da742e.png)
+![Screenshot (681)](https://user-images.githubusercontent.com/90555457/175787265-a2c64c92-164c-47a8-aec5-0a90fd04a99c.png)
 
-![Screenshot (682)](https://user-images.githubusercontent.com/90555457/175780088-8ee89205-76ba-450a-91ef-9e674480b91d.png)
+![Screenshot (683)](https://user-images.githubusercontent.com/90555457/175787273-0bbc2ed9-b49c-419a-9f37-b743848a2153.png)
 
-![Screenshot (683)](https://user-images.githubusercontent.com/90555457/175780092-8b7c51fa-329b-42bf-af05-89a97c2ff2ee.png)
+![Screenshot (684)](https://user-images.githubusercontent.com/90555457/175787287-57dc8827-ed1b-4023-afd6-d9b6bfa6503d.png)
 
 
-![Screenshot (684)](https://user-images.githubusercontent.com/90555457/175780098-c9b5a0ad-d73f-4248-ba65-b2284e8174b5.png)
 
 
 ![Screenshot (702)](https://user-images.githubusercontent.com/90555457/175780341-d08c0642-ba89-4510-b0dc-fb38daa7178b.png)
