@@ -4,6 +4,14 @@ Text-Editor is a React based app in which the user enter his text and converts i
 
 
 
+Here is the sample video of Text-Editor 
+https://user-images.githubusercontent.com/90555457/175787132-4aafa064-3c92-4f9d-bd69-a108f11bca0e.mp4
+
+
+
+
+
+
 
 Here is the screenshot of the react app text editor
 
