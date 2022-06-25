@@ -1,3 +1,17 @@
+Here is the screenshot of the react app text editor
+
+
+
+![Screenshot (680)](https://user-images.githubusercontent.com/90555457/175780077-388a7395-1a10-4409-8b66-2bd1b5da742e.png)
+
+![Screenshot (682)](https://user-images.githubusercontent.com/90555457/175780088-8ee89205-76ba-450a-91ef-9e674480b91d.png)
+
+![Screenshot (683)](https://user-images.githubusercontent.com/90555457/175780092-8b7c51fa-329b-42bf-af05-89a97c2ff2ee.png)
+
+
+![Screenshot (684)](https://user-images.githubusercontent.com/90555457/175780098-c9b5a0ad-d73f-4248-ba65-b2284e8174b5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
