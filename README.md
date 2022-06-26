@@ -1,4 +1,4 @@
-Text-Editor is a React based app in which the user enter his text and converts it in the uppercase,lowercase,etc.In this app the user also sees his typing speed of words per minute.
+Text-Editor is a React based app in which the user enter his text or words and converts it in the uppercase,lowercase,etc.In this app the user also sees his typing speed of words per minute.
 
 
 
